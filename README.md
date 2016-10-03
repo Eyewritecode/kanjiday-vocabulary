@@ -1,7 +1,7 @@
 # kanjiday-vocabulary
 Vocabulary list used for the Chrome extension Kanjiday
 
-Each Kanji object has the following attributes:
+Each Kanji object has the following properties:
 
 "character": "海",
 
